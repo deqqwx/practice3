@@ -35,6 +35,6 @@ fn main() {
 
     let result = migratoryBirds(&arr);
 
-    // Print result to console
+    // Print result to consol
     println!("{}", result);
 }
