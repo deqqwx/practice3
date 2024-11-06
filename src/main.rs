@@ -15,6 +15,7 @@ mod hacker14;
 mod hacker15;
 mod hacker16;
 mod hacker17;
+mod hacker18;
 
 fn main() {
     println!("Hello, world!");
